@@ -29,6 +29,5 @@ public class calculateTax {
         System.out.println("local tax: $" + localTax);
         System.out.println("Total tax paid: $" + netTax);
 
-
     }
 }
